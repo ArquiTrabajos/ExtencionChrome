@@ -23,6 +23,8 @@ Capturas de pantalla
  captura de pantalla de la página de opciones de la extensión, mostrando cómo se pueden personalizar las opciones de búsqueda.
 Instalación
 
+[Doc] (https://docs.google.com/document/d/1dRGkLMey_CFyq7yB0Td0L9itEfCBcWzFFzROKf5UZpk/edit?usp=sharing)
+
 Uso
 Chrome https://developer.chrome.com/docs/extensions/mv3/getstarted/
 
