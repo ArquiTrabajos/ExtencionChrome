@@ -70,6 +70,9 @@ Chrome https://developer.chrome.com/docs/extensions/mv3/getstarted/
 - Una interfaz simple y fácil de usar, simplemente haga clic en el cuadro de color o en el código hexadecimal en el que se puede hacer clic para copiar el valor hexadecimal.
 ### Referencias
   https://www.freecodecamp.org/news/chrome-extension-message-passing-essentials/
+  https://github.com/hankchiutw/any-color
+  https://developer.chrome.com/docs/extensions/mv2/architecture-overview/
+  https://www.researchgate.net/publication/266506233_Towards_Comprehensible_and_Effective_Permission_Systems
 
 ### Support 
 Esta extensión solo ha sido compatible con navegadores web basados ​​en Chrome/Edge.
