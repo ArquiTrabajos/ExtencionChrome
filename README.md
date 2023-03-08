@@ -12,11 +12,11 @@ Descripción
 
 ¿Alguna vez has visto un color en una página web que te encanta y te gustaría usarlo en tu propio sitio web? Color Hex Finder es una extensión de navegador para Google Chrome que te permite encontrar los colores de una página en formato hexadecimal de manera fácil y rápida.
 
-Características principales
+# Características principales
 
-Encuentra los colores en hezxadecimal: La extensión escanea la página web solo chrome y encuentra todos los colores que están en formato hexadecimal.
-Selección fácil de colores: Puedes hacer clic en un color para copiarlo en el panel que aparece sobre el icono de la extencion y  usarlo en tu propio sitio web o proyecto.
-NOTA: no funciona en cualquier pagina de chrome por sus permisos con las extenciones no puede ser utiliza. 
+"Encuentra los colores en formato hexadecimal con esta extensión de Chrome. La extensión suigue es mouse en la página web y encuentra todos los colores que sean selecionados por el mouse y los lleva  en formato hexadecimal, lo que te permitirá seleccionar fácilmente los que necesites. Simplemente haz clic en un color y cópialo en el panel que aparece sobre el icono de la extensión para usarlo en tu propio sitio web o proyecto.
+
+Es importante tener en cuenta que, debido a los permisos de las extensiones, esta herramienta puede no funcionar en todas las páginas web de Chrome. Sin embargo, existen otras herramientas gratuitas en línea que pueden ayudarte a encontrar colores en formato hexadecimal si esta extensión no es compatible con la página que estás visitando."
 ----
 ## Arquitectura Chrome
 ![image](https://cdn.tutsplus.com/cdn-cgi/image/width=600/net/uploads/2013/07/architecture.png)
